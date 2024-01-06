@@ -1,0 +1,19 @@
+{
+    "swaggerDefinition": {
+      "info": {
+        "title": "DIOMANDE SANOUSSI ENZEDECK : API gestion des fruit",
+        "version": "1.0.0",
+        "description": "API gestion des fruit documentation",
+        "contact": {
+          "name": "DIOMANDE SANOUSSI ENZEDECK"
+        },
+        "servers": [
+          "http://localhost:8080"
+        ]
+      }
+    },
+    "apis": [
+      "app.js",
+      "./routes/*.js"
+    ]
+  }
